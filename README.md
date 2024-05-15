@@ -29,7 +29,7 @@ To start using LLMs in your projects, you can explore various pre-trained models
 
 ```bash
 pip install transformers
-
+```
 
 ## Resources
 
