@@ -1,4 +1,3 @@
-# LLMs
 # LLMs - Large Language Models
 
 Large Language Models (LLMs) are sophisticated artificial intelligence systems built upon transformer architectures, such as GPT (Generative Pre-trained Transformer). These models leverage deep learning techniques, including multi-layered neural networks and self-attention mechanisms, to comprehend and generate human-like text.
